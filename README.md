@@ -36,7 +36,7 @@ You need [Java 21 (or more)](https://adoptium.net/temurin/releases/?version=21) 
 You can find the javadoc [here](https://formiko.fr/Kokcinelo/javadoc/)
 
 # Team
-
+[FormkoLudo](https://github.com/FormikoLudo) members
 ## Developers: 
 [Hydrolien](https://www.youtube.com/hydrolien)
 
